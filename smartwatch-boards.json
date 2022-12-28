@@ -45,7 +45,7 @@
                 {
                     "name": "D6 Tracker",
                     "architecture": "nRF5",
-                    "version": "0.1.0-alpha",
+                    "version": "0.1.0",
                     "category": "Contributed",
                     "help": {
                         "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
@@ -78,7 +78,7 @@
                 {
                     "name": "D6 Tracker",
                     "architecture": "nRF5",
-                    "version": "0.1.0-alpha",
+                    "version": "0.1.0",
                     "category": "Contributed",
                     "help": {
                     "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
