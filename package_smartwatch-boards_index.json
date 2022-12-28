@@ -18,7 +18,7 @@
                         "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
                     },
                     "url": "https://github.com/ljunquera/arduino-smartwatch-boards/archive/refs/tags/0.1.1.tar.gz",
-                    "archiveFileName": "arduino-smartwatch-boards-0.1.0.tar.gz",
+                    "archiveFileName": "arduino-smartwatch-boards-0.1.1.tar.gz",
                     "checksum": "MD5:1f1651720408e88761d32728cb858ba9",
                     "size": "15600130",
                     "boards": [
