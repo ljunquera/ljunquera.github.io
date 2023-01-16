@@ -27,6 +27,9 @@
                         },
                         {
                             "name": "DaFit Watch Bootloader 23"
+                        },
+                        {
+                            "name": "D6 Tracker"
                         }
                     ],
                     "toolsDependencies": [
