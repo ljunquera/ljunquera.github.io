@@ -19,8 +19,8 @@
                     },
                     "url": "https://github.com/ljunquera/arduino-smartwatch-boards/archive/refs/tags/0.1.4.tar.gz",
                     "archiveFileName": "arduino-smartwatch-boards-0.1.4.tar.gz",
-                    "checksum": "MD5:237bf3a8bc56b51bd6c8e9c95ee3732e",
-                    "size": "15600126",
+                    "checksum": "MD5:d03b603a2a2458bcbb7e1e95786514bc",
+                    "size": "15600099",
                     "boards": [
                         {
                             "name": "Kalinco p22"
