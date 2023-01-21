@@ -18,9 +18,42 @@
                         "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
                     },
                     "url": "https://github.com/ljunquera/arduino-smartwatch-boards/archive/refs/tags/0.1.5.tar.gz",
-                    "archiveFileName": "arduino-smartwatch-boards-0.1.4.tar.gz",
+                    "archiveFileName": "arduino-smartwatch-boards-0.1.5.tar.gz",
                     "checksum": "MD5:42c4108fe6bacf5b9b45135588b19fa4",
                     "size": "17154187",
+                    "boards": [
+                        {
+                            "name": "Kalinco p22"
+                        },
+                        {
+                            "name": "DaFit Watch Bootloader 23"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                        "packager": "nRF52D6Fitness",
+                        "name": "gcc-arm-none-eabi",
+                        "version": "5_2-2015q4"
+                        },
+                        {
+                        "packager": "nRF52D6Fitness",
+                        "name": "openocd",
+                        "version": "0.10.0-dev.nrf5"
+                        }
+                    ]
+                },
+                {
+                    "name": "Smartwatch Boards",
+                    "architecture": "nRF5",
+                    "version": "0.1.6",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
+                    },
+                    "url": "https://github.com/ljunquera/arduino-smartwatch-boards/archive/refs/tags/0.1.6.tar.gz",
+                    "archiveFileName": "arduino-smartwatch-boards-0.1.6.tar.gz",
+                    "checksum": "MD5:c0500281f63f26cbebc401338c0cde78",
+                    "size": "17153381",
                     "boards": [
                         {
                             "name": "Kalinco p22"
