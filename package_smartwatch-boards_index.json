@@ -74,6 +74,39 @@
                         "version": "0.10.0-dev.nrf5"
                         }
                     ]
+                },
+                {
+                    "name": "Smartwatch Boards",
+                    "architecture": "nRF5",
+                    "version": "0.1.7",
+                    "category": "Contributed",
+                    "help": {
+                        "online": "https://github.com/atc1441/D6-arduino-nRF5/issues"
+                    },
+                    "url": "https://github.com/ljunquera/arduino-smartwatch-boards/archive/refs/tags/0.1.7.tar.gz",
+                    "archiveFileName": "arduino-smartwatch-boards-0.1.7.tar.gz",
+                    "checksum": "MD5:bb3981030ab655aefcd949d20de645a9",
+                    "size": "17153480",
+                    "boards": [
+                        {
+                            "name": "Kalinco p22"
+                        },
+                        {
+                            "name": "DaFit Watch Bootloader 23"
+                        }
+                    ],
+                    "toolsDependencies": [
+                        {
+                        "packager": "nRF52D6Fitness",
+                        "name": "gcc-arm-none-eabi",
+                        "version": "5_2-2015q4"
+                        },
+                        {
+                        "packager": "nRF52D6Fitness",
+                        "name": "openocd",
+                        "version": "0.10.0-dev.nrf5"
+                        }
+                    ]
                 }
             ],
             "tools": [
